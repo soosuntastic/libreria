@@ -1,0 +1,4 @@
+Pasos para ver la web librería:
+
+1- Accede al fichero index.html.
+2- Ábrelo en un navegador.
